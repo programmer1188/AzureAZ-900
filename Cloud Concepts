@@ -61,7 +61,28 @@ Types of cloud models: public, private, and hybrid clouds.
 https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing
 
 
-Cloud benefits and considerations:
+Cloud benefits and considerations: 
 https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing
 
- 
+1. High availability
+2. Scalability
+3. Elasticity
+4. Agility
+5. Geo-distribution
+6. Disaster recovery
+
+Capital Expenditure (CapEx): Upfront spending for infrastructure.
+Operational Expendicture(OpEx): Spending money on services or products. The computing resources that is being used.
+
+-> Cloud computing is a consumption-based model:
+   No upfront costs.
+   No need to purchase and manage costly infrastructure that users might not use to its fullest.
+   The ability to pay for additional resources when they are needed.
+   The ability to stop paying for resources that are no longer needed.
+
+
+Cloud Service Models: IaaS, PaaS, SaaS
+https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/categories-of-cloud-services
+
+
+
