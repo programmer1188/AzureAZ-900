@@ -1,0 +1,55 @@
+
+Cloud Computing: It's the delivery of computing services over the internet, which is otherwise known as the cloud. 
+                 These services include servers, storage, databases, networking, software, analytics, and intelligence. 
+                 Cloud computing offers faster innovation, flexible resources, and economies of scale.
+                 
+Pay only for the cloud services you use, which helps you:
+->Lower your operating costs.
+->Run your infrastructure more efficiently.
+->Scale as your business needs change.
+
+Azure: Microsoft cloud computing platform. It supports IaaS, PaaS, SaaS. It provides services such as Virtual machines runnung on the cloud. Website and database hosting.
+       Advanced computing services like Artificial Intelligence, Machine Learning, IoT. Pay-as-you-go: you only pay for the computing time you use. It allows Cloud based storage. 
+       Azure Web apps: provides scalable hosting platform. It is easy to deploy , operate and scale your apps in fully managed environment.
+       Azure functions: Create event driven serverless applications with no coding required. 
+       Azure Container Instances(Kubernetes Services): It allows you to deploy containarised applications with fully managed services.
+       Azure offers fully managable relational and In memory databases. CosmosDB provides support for several NoSQL API's.
+       
+       Infrastruce management, scalability , availability and security are handled for you to save money and time.  
+  
+The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription by using a graphical user interface. You can:
+->Build, manage, and monitor everything from simple web apps to complex cloud deployments.
+->Create custom dashboards for an organized view of resources.
+->Configure accessibility options for an optimal experience.
+
+Azure Marketplace: It helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, 
+                   which are optimized to run on Azure. Customers can find, try, purchase, and provision applications and services from hundreds of leading service providers. 
+                   All solutions and services are certified to run on Azure.
+   
+Azure services:
+
+1. Compute: These cloud services let you scale your computing capability on demand. while only paying for what you use, add virtual machines as needed or scale your
+            company's app services for web and mobile apps. 
+            examples: Virtual machines, Containers and Azure Kubernetes
+
+2. Networking: These features let you connect your cloud and on-premise infrastructure in order to bring the best possible experince to your customers.
+               example: Virtaul Network(VPNs), Load Balancer, DNS, Express Route, Traffic Manager, VPN Gateway and App Gateway. 
+               
+3. Storage: Whether its disk, file, blob or archival storage these services let you scale your data and app storage nneds in a secure fashion. 
+            example: Blob, Queues, Files and Disks.
+
+4. Mobile: You can build and deploy cross-platform and native apps for any mobile device. 
+           Use Xamarin to build cloud powered apps and take advantage of cognitive services to make your apps smarter.
+  
+5. Databases: Choose from a variety of proprietary and open-source database engines to bring your current databases to cloud. 
+
+6. Web: These services help you build, deploy, manage and scale your web applications, create web apps, publish APIs to your services or use Azure maps to provide geospatial context to your data.
+
+7. IOT: Use these features to connnect, monitor and manage all of your IoT assests. analyze the data as it arrives from sensors, and then take meaningful action with it.
+
+8. Big Data: When you have large volumes of data, these open source cluster services will help you run analytics at a massive scale and make decisions based off of complex queries.
+
+9. AI: Use your existing data to forecast future behaviors based on these AI services. USe machine learning to build, train and deploy models to the cloud. 
+
+10. DevOps: Brings together people, process and technology by automating software delivery to provide continuous value to your users. 
+            You can create, build and release pipelines that provide continuous integration, delivery and deployment for your applications. 
