@@ -25,7 +25,9 @@ The Azure portal is a web-based, unified console that provides an alternative to
 Azure Marketplace: It helps connect users with Microsoft partners, independent software vendors, and startups that are offering their solutions and services, 
                    which are optimized to run on Azure. Customers can find, try, purchase, and provision applications and services from hundreds of leading service providers. 
                    All solutions and services are certified to run on Azure.
-   
+
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/tour-of-azure-services
+
 Azure services:
 
 1. Compute: These cloud services let you scale your computing capability on demand. while only paying for what you use, add virtual machines as needed or scale your
