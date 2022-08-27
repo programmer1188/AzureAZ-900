@@ -55,3 +55,13 @@ Azure services:
 
 10. DevOps: Brings together people, process and technology by automating software delivery to provide continuous value to your users. 
             You can create, build and release pipelines that provide continuous integration, delivery and deployment for your applications. 
+            
+            
+Types of cloud models: public, private, and hybrid clouds.
+https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/types-of-cloud-computing
+
+
+Cloud benefits and considerations:
+https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing
+
+ 
