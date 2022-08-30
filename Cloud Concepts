@@ -101,3 +101,11 @@ Core Azure Architectural components: The components necessary to successfully de
 Azure regions, Azure availability zones, Azure Region pairs
 https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/regions-availability-zones
 
+Azure Resource Groups:
+https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/resources-resource-manager
+Resource: A manageable item that's available through Azure. Virtual machines (VMs), storage accounts, web apps, databases, and virtual networks are examples of resources.
+Resource group: A container that holds related resources for an Azure solution. The resource group includes resources that you want to manage as a group. 
+                You decide which resources belong in a resource group based on what makes the most sense for your organization.
+Authorization: Resource groups are also a scope for applying role-based access control (RBAC) permissions. 
+               By applying RBAC permissions to a resource group, you can ease administration and limit access to allow only what's needed.
+Azure Resource Manager is the deployment and management service for Azure. 
