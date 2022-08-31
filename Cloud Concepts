@@ -109,3 +109,14 @@ Resource group: A container that holds related resources for an Azure solution. 
 Authorization: Resource groups are also a scope for applying role-based access control (RBAC) permissions. 
                By applying RBAC permissions to a resource group, you can ease administration and limit access to allow only what's needed.
 Azure Resource Manager is the deployment and management service for Azure. 
+
+
+Azure subscriptions and management groups
+https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/management-groups-subscriptions
+
+
+Azure compute services: https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals/overview
+                      ->Azure Virtual Machines
+                        Azure Container Instances
+                        Azure App Service
+                        Azure Functions (or serverless computing)
